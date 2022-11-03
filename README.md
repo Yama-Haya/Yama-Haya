@@ -7,5 +7,5 @@ English is under
 
 # English
 ## About
-I live in Aichi Prefecture, Japan.
+I live in Aichi Prefecture, Japan.  
 I am making a [disaster prevention quiz](https://github.com/Yama-Haya/Disaster-prevention-quiz).
