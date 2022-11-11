@@ -9,3 +9,4 @@ English is under
 ## About
 I live in Aichi Prefecture, Japan.  
 I am making a [disaster prevention quiz](https://github.com/Yama-Haya/Disaster-prevention-quiz).
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1998ky262&label=Profile%20views&color=0e75b6&style=flat" alt="Yama-Haya" /> </p>
