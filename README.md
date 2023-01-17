@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yama-Haya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 English is under
 
 # Japanese/日本語
